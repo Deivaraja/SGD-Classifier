@@ -68,7 +68,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Output:
 ![prediction of iris species using SGD Classifier](sam.png)
 
+[exp7.pdf](https://github.com/user-attachments/files/17839450/exp7.pdf)
 
-## Result:[exp7.pdf](https://github.com/user-attachments/files/17839442/exp7.pdf)
+
 
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
